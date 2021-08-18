@@ -1,4 +1,0 @@
-host = 'localhost'
-user = 'jake'
-passwd = 'root'
-database = 'twitterbot'
